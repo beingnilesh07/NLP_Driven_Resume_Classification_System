@@ -14,7 +14,7 @@ machine learning models to understand the content of resumes.
 
 ------------------------------------------------------------------------
 
-## Problem Statement
+## 📑 Problem Statement
 
 In traditional hiring workflows, HR teams manually read resumes to
 determine whether a candidate is suitable for a role. This approach
@@ -48,7 +48,7 @@ Work experience - Tools and technologies
 
 ------------------------------------------------------------------------
 
-## Data Preprocessing
+## 🧹 Data Preprocessing
 
 Before training the model, the resume text is cleaned and prepared.
 
@@ -58,7 +58,7 @@ text into numerical vectors
 
 ------------------------------------------------------------------------
 
-## Feature Extraction
+## ⚙️ Feature Extraction
 
 The text data is converted into numerical format using:
 
@@ -69,7 +69,7 @@ importance of commonly used words.
 
 ------------------------------------------------------------------------
 
-## Machine Learning Model
+## 🤖 Machine Learning Model
 
 Common models suitable for this problem include:
 
@@ -82,7 +82,7 @@ from resume text.
 
 ------------------------------------------------------------------------
 
-## Model Evaluation
+## 📊 Model Evaluation
 
 The model is evaluated using:
 
@@ -115,7 +115,7 @@ streamlit run app.py
 
 ------------------------------------------------------------------------
 
-## Technologies Used
+## 🛠 Technologies Used
 
 -   Python
 -   Pandas
@@ -126,7 +126,7 @@ streamlit run app.py
 -   Streamlit
 -   Jupyter Notebook
 
-## Future Improvements
+## 🔮Future Improvements
 
 Possible improvements include:
 
@@ -137,7 +137,7 @@ Possible improvements include:
 
 ------------------------------------------------------------------------
 
-## Conclusion
+## 🧠 Conclusion
 
 This project demonstrates how machine learning and natural language
 processing can automate the resume screening process. By classifying
