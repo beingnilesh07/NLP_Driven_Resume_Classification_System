@@ -1,0 +1,9 @@
+streamlit
+scikit-learn
+pdfplumber
+docx2txt
+nltk
+wordcloud
+stopwords
+spacy
+plotly
